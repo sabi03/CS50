@@ -1,0 +1,17 @@
+Get a command line input from the user
+Check if the input is only one argument so argc == 2
+Iterate over input and check if its non negative and if its an integer only,otherwise return 1 error
+Convert string to int with atoi
+Ask for plaintext input
+Print Cyphertext on the screen: ...
+Iterate over plaintext via its strlen times, and 
+    if ascii between 65-90,isupper thats upper case 
+    if ascii between {65...90}+32 islower thats lower case
+    if other then just print the plaintext[i]'th character as is
+CIPHER
+Each cipher character should be equal to (plaintext[i]+key) % 26
+as 65 + 25 is 'Z'
+26 % 26 is 0 therefore
+we can say 0 + 'A'(65) = 'A'(65)
+we can say 0 + 's'(97) = 'a'(97)
+'A' + 32 = lower character
