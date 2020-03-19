@@ -1,7 +1,7 @@
 HELLO WORLD
 
 # CS50 Harvard Course
-This course is designed to give you a really good insight into programming and it was easy...ohm....
+This course is designed to give you a really good insight into programming and it was easy...oh, wait....
 I mean : this course is AMAZING and it really teaches you, how to think logically. It was very though at times, 
 I have spent hours and hours sometimes to solve an issue. 
 I have learned how to use Github, Stack Overflow, Amazon Web services and Reddit. I have came in good terms with the terminal as well.
